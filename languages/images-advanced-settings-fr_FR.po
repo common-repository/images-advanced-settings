@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Images Advanced Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-02 15:42+0000\n"
+"PO-Revision-Date: 2018-12-02 15:46+0000\n"
+"Last-Translator: clement <lemenct@gmail.com>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: admin/class-ias-admin.php:86
+msgid "Server error, please retry"
+msgstr "Erreur de serveur, merci de réessayer"
+
+#: admin/class-ias-admin.php:87
+msgid "Connection error, please retry"
+msgstr "Erreur de connexion, merci de réessayer"
+
+#: admin/class-ias-admin.php:100
+msgid "Sizes"
+msgstr "Tailles"
+
+#: admin/class-ias-admin.php:101
+msgid "Regeneration"
+msgstr "Régénération"
+
+#: admin/class-ias-admin.php:102
+msgid "Optimization"
+msgstr "Optimisation"
+
+#: admin/class-ias-admin.php:113
+msgid "Images"
+msgstr "Images"
+
+#: admin/class-ias-admin.php:114
+msgid "Images (advanced)"
+msgstr "Images (avancé)"
+
+#: admin/class-ias-admin.php:144
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/includes/class-ias-admin-attachments.php:47
+#, php-format
+msgid "File does not exist and can not be removed: %s"
+msgstr "Ce fichier n'existe pas et ne peut être supprimé : %s"
+
+#: admin/includes/class-ias-admin-attachments.php:52
+#, php-format
+msgid "File has been removed: %s"
+msgstr "Ce fichier a été supprimé : %s"
+
+#: admin/includes/class-ias-admin-attachments.php:54
+#, php-format
+msgid "File can not be removed due to unknown error: %s"
+msgstr "Ce fichier ne peut être supprimé à la suite d'une erreur inconnue : %s"
+
+#: admin/includes/class-ias-admin-attachments.php:80
+#, php-format
+msgid "Directory \"%s\" can not be opened"
+msgstr "Le dossier \"%s\" ne peut être ouvert"
+
+#: admin/includes/class-ias-admin-attachments.php:90
+#, php-format
+msgid "There is no file found for \"%s\""
+msgstr "Il n'y a pas de fichier trouvé pour \"%s\""
+
+#: admin/includes/class-ias-admin-attachments.php:114
+#, php-format
+msgid "Size %s was not found for this file"
+msgstr "La taille %s n'a pas été trouvée pour ce fichier"
+
+#: admin/includes/class-ias-admin-attachments.php:142
+msgid "Attachment ID is missing"
+msgstr "L'ID est manquant"
+
+#: admin/includes/class-ias-admin-attachments.php:145
+#, php-format
+msgid "Attachment ID \"%d\" is incorrect"
+msgstr "L'ID \"%d\" est incorrecte"
+
+#: admin/includes/class-ias-admin-attachments.php:164
+#: admin/includes/class-ias-admin-attachments.php:237
+#, php-format
+msgid "File not found for ID \"%d\""
+msgstr "Aucun fichier trouvé pour l'ID \"%d\""
+
+#: admin/includes/class-ias-admin-attachments.php:189
+msgid "There is no attachment"
+msgstr "Il n'y a pas d'image"
+
+#: admin/includes/class-ias-admin-attachments.php:210
+#, php-format
+msgid "%s size has been generated: %s"
+msgstr "La taille %s a été générée : %s"
+
+#: admin/includes/class-ias-admin-attachments.php:213
+msgid "There is no more regeneration to do with this attachment"
+msgstr "Il n'y a pas de régénération supplémentaire à faire avec cette image"
+
+#: admin/includes/class-ias-admin-optimizations.php:18
+msgid "Field is missing or incorrect"
+msgstr "Un champ est manquant ou incorrect"
+
+#: admin/includes/class-ias-admin-optimizations.php:24
+msgid "Update done"
+msgstr "Modification effectuée"
+
+#: admin/includes/class-ias-admin-sizes.php:123
+#, php-format
+msgid "%s field is missing"
+msgstr "Le champ %s est manquant"
+
+#: admin/includes/class-ias-admin-sizes.php:125
+#, php-format
+msgid "%s field is empty"
+msgstr "Le champ %s est vide"
+
+#: admin/includes/class-ias-admin-sizes.php:127
+#, php-format
+msgid "%s dimension is invalid"
+msgstr "La dimension %s n'est pas valide"
+
+#: admin/includes/class-ias-admin-sizes.php:132
+#, php-format
+msgid "%s already exists"
+msgstr "%s existe déjà"
+
+#: admin/includes/class-ias-admin-sizes.php:161
+msgid "Center"
+msgstr "Centre"
+
+#: admin/includes/class-ias-admin-sizes.php:162
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/includes/class-ias-admin-sizes.php:163
+msgid "Right"
+msgstr "Droite"
+
+#: admin/includes/class-ias-admin-sizes.php:167
+msgid "center"
+msgstr "centre"
+
+#: admin/includes/class-ias-admin-sizes.php:168
+msgid "top"
+msgstr "haut"
+
+#: admin/includes/class-ias-admin-sizes.php:169
+msgid "bottom"
+msgstr "bas"
+
+#: admin/includes/class-ias-admin-sizes.php:191
+msgid "Modifications done"
+msgstr "Modifications effectuées"
+
+#: admin/includes/class-ias-admin-sizes.php:233
+msgid "Image size added"
+msgstr "Taille d'image ajoutée"
+
+#: admin/includes/class-ias-admin-sizes.php:271
+msgid "Updates done"
+msgstr "Mises à jour effectuées"
+
+#: admin/includes/class-ias-admin-sizes.php:293
+msgid "Image size deleted"
+msgstr "Taille d'image supprimée"
+
+#: admin/includes/class-ias-admin-sizes.php:300
+msgid "Size removed and no file with this size was found"
+msgstr "Taille supprimée, aucun fichier avec cette taille n'a été trouvé"
+
+#: admin/views/ias-admin-page.php:38
+msgid "Logs"
+msgstr "Historique d'activité"
+
+#: admin/views/ias-admin-part-custom-sizes.php:14
+#: admin/views/ias-admin-section-sizes.php:40
+msgid "Width"
+msgstr "Largeur"
+
+#: admin/views/ias-admin-part-custom-sizes.php:18
+#: admin/views/ias-admin-section-sizes.php:48
+msgid "Height"
+msgstr "Hauteur"
+
+#: admin/views/ias-admin-part-custom-sizes.php:24
+msgid "Disabled"
+msgstr "Désactivée"
+
+#: admin/views/ias-admin-part-custom-sizes.php:29
+#: admin/views/ias-admin-section-sizes.php:56
+msgid "Crop"
+msgstr "Rogner"
+
+#: admin/views/ias-admin-part-custom-sizes.php:37
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/views/ias-admin-part-custom-sizes.php:44
+msgid "Save modifications"
+msgstr "Sauvegarder les modifications"
+
+#: admin/views/ias-admin-part-custom-sizes.php:49
+msgid "No custom sizes"
+msgstr "Aucune taille personnalisée"
+
+#: admin/views/ias-admin-section-optimization.php:2
+msgid "Lazy loading"
+msgstr "Lazy loading (chargement paresseux)"
+
+#: admin/views/ias-admin-section-optimization.php:3
+#, php-format
+msgid "Apply %s script to load images when they enter the viewport."
+msgstr ""
+"Appliquer le script %s pour charger les images seulement quand elles entrent "
+"dans l'aire d'affichage."
+
+#: admin/views/ias-admin-section-optimization.php:9
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/views/ias-admin-section-optimization.php:13
+#: admin/views/ias-admin-section-sizes.php:16
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: admin/views/ias-admin-section-regeneration.php:2
+msgid ""
+"Regeneration will remove all attachments existing versions and recreate them "
+"with proper settings."
+msgstr ""
+"La régénération supprimera puis recréera toutes les versions d'une image "
+"avec les réglages adaptés"
+
+#: admin/views/ias-admin-section-regeneration.php:5
+msgid "Regenerate all"
+msgstr "Tout régénérer"
+
+#: admin/views/ias-admin-section-sizes.php:2
+msgid "Disable default WordPress sizes"
+msgstr "Désactiver les tailles par défaut de WordPress"
+
+#: admin/views/ias-admin-section-sizes.php:3
+msgid "Checked sizes are not generated at image upload"
+msgstr ""
+"Les tailles cochées ne sont pas générées lors du téléversement d'une image"
+
+#: admin/views/ias-admin-section-sizes.php:25
+msgid "Add a custom size"
+msgstr "Ajouter une taille personnalisée"
+
+#: admin/views/ias-admin-section-sizes.php:32
+msgid "Name"
+msgstr "Nom"
+
+#: admin/views/ias-admin-section-sizes.php:71
+msgid "Add"
+msgstr "Ajouter"
+
+#: admin/views/ias-admin-section-sizes.php:80
+msgid "Custom sizes"
+msgstr "Tailles personnalisées"
+
+#: admin/views/ias-admin-section-sizes.php:88
+msgid "Do you really want to remove this image size ?"
+msgstr "Voulez-vous vraiment supprimer cette taille ?"
+
+#: admin/views/ias-admin-section-sizes.php:92
+msgid "Remove generated images of this size too"
+msgstr "Supprimer les images avec cette taille"
+
+#: admin/views/ias-admin-section-sizes.php:96
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/views/ias-admin-section-sizes.php:98
+msgid "Remove"
+msgstr "Supprimer"
+
+#. Name of the plugin
+msgid "Images Advanced Settings"
+msgstr "Réglages d'images avancés"
+
+#. Description of the plugin
+msgid "Additional settings for images as custom sizes or regeneration."
+msgstr ""
+"Réglages supplémentaires pour les images comme les tailles personnalisées ou "
+"la régénération."
+
+#. Author of the plugin
+msgid "Clément Leboucher"
+msgstr "Clément Leboucher"
+
+#. Author URI of the plugin
+msgid "https://github.com/keylies"
+msgstr "https://github.com/keylies"

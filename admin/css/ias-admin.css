@@ -1,0 +1,151 @@
+[aria-hidden="true"] {
+    display: none !important;
+}
+
+.wp-core-ui .button {
+    margin-top: 1em;
+}
+
+.tab {
+    margin-bottom: 0;
+}
+
+.form__error {
+    color: #a6700f;
+}
+
+.info-message {
+    font-size: 130%;
+    background-color: white;
+    text-align: center;
+}
+
+.crop-position {
+    display: none;
+    margin-left: 1em;
+}
+
+.crop:checked ~ .crop-position {
+    display: inline;
+}
+
+.small-text {
+    margin: 0 0 1em;
+}
+
+.default-checkboxes__container {
+	max-height: 200px;
+	overflow: scroll;
+}
+
+.sizes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    .size {
+        background-color: white;
+        border: 1px solid #6666664d;
+        margin-right: 1em;
+        margin-bottom: 1em;
+        padding: 1em 3em;
+    }
+
+        .size__name {
+            text-align: center;
+            font-size: 130%;
+            margin-top: 0;
+        }
+
+.remove__modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    background-color: white;
+    padding: 2em;
+    border: 1px solid;
+}
+
+    .modal__title {
+        font-weight: bold;
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+    .modal__input-container {
+        text-align: center;
+    }
+
+    .modal__buttons {
+        text-align: center;
+        padding: 2em 1em 0;
+    }
+
+        .modal__button:first-child {
+            margin-right: 1em;
+        }
+
+.logs {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+    .log {
+        background-color: white;
+        padding: 1em;
+    }
+
+        .log__title {
+            font-weight: bold;
+        }
+
+        .log__results {
+            padding-left: 1em;
+        }
+
+            .log__result {
+                display: flex;
+                align-items: center;
+            }
+
+                .result__img {
+                    height: 20px;
+                    margin: 0 .5em;
+                }
+
+                .result__text {
+                    margin: .5em 0;
+                }
+
+.ias-spinner {
+    display: none;
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.ias-spinner:after {
+    content: " ";
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: spinner 1.2s linear infinite;
+}
+
+.button--loading .ias-spinner {
+    display: inline-block;
+}
+
+@keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
